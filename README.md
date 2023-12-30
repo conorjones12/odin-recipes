@@ -1,1 +1,2 @@
 # odin-recipes
+<!-- This will be practice for me, I will creat some recipes on HTML and I'll try to send useful messages along the way so that people can follow what I do, I will try ot be as clear as possible about my progress. -->
